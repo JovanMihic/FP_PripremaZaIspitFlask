@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "admin": true,
+      "username": "admin",
+      "password": "admin123",
+      "ime": "administrator",
+      "prezime": "Peric",
+      "godiste": "1987"
+    },
+    {
+      "id": 1,
+      "admin": false,
+      "username": "miki",
+      "password": "miki123",
+      "ime": "Miomir",
+      "prezime": "Jovanovic",
+      "godiste": "1995"
+    },
+    {
+      "id": 2,
+      "admin": false,
+      "username": "jole",
+      "password": "jole123",
+      "ime": "Jovan",
+      "prezime": "Mihic",
+      "godiste": "1999"
+    }
+  ]
+}
